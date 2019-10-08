@@ -1,0 +1,101 @@
+Please enter the name of the collection file:cran100.txt
+Please enter the name of the stopwords file:stopwords.txt
+ID: 325 Title: heat transfer to constant property laminar boundary layer flows with power function free stream velocity and wall temperature variation .
+  numerical computations have been performed for the boundary-layer form of the energy equation for incompressible flows with power-function variation of free-stream velocity (u = cx) and of wall temperature (t = ax), the pertinent solutions of the momentum equation in this case being those of hartree . the numerical computations given herein are to some extent a repetition of those given by schuh and by chapman and rubesin, the object of the present computations being the resolution of discrepancies appearing in the previous solutions and an extension of their range .  ibm machine calculations were employed in the finite difference calculation presently utilized, the results thereof covering a range of wall-temperature function exponents from values of m(4, 1, 0, -0.0904) .  the accuracy of the numerical computations is examined in detail, and the accuracy of the computed functions at the wall, which determine the heat-transfer rate, is estimated to be within 2 per cent .   examination of the results reveals that the results of schuh for the flat plate are in error .  for the range of the calculations, it was found that the local heat-transfer coefficient can, with the exception of large negative values, be expressed within 5 per cent as where the exponent of the prandtl number varies from 0.254 to 0.367 for -0.0904 and where the function can be approximated by the equation
+
+There are currently 198 known stopwords.
+
+numerical computations performed boundary-layer form energy equation incompressible flows power-function variation free-stream velocity cx wall temperature ax pertinent solutions momentum equation case hartree numerical computations given herein extent repetition given schuh chapman rubesin object present computations resolution discrepancies appearing previous solutions extension range ibm machine calculations employed finite difference calculation presently utilized results thereof covering range wall-temperature function exponents values accuracy numerical computations examined detail accuracy computed functions wall determine heat-transfer rate estimated within per cent examination results reveals results schuh flat plate error range calculations found local heat-transfer coefficient can exception large negative values expressed within per cent exponent prandtl number varies function can approximated equation
+Number of unique unstemmed words:83
+
+numer comput perform boundary-lay form energi equat incompress flow power-funct variat free-stream veloc cx wall temperatur ax pertin solution momentum equat case hartre numer comput given herein extent repetit given schuh chapman rubesin object present comput resolut discrep appear previou solution extens rang ibm machin calcul emploi finit differ calcul present util result thereof cover rang wall-temperatur function expon valu accuraci numer comput examin detail accuraci comput function wall determin heat-transf rate estim within per cent examin result reveal result schuh flat plate error rang calcul found local heat-transf coeffici can except larg neg valu express within per cent expon prandtl number vari function can approxim equat
+Number of unique stemmed words:77
+
+Word:                    accuraci  TF:   2 IDF:   2 TF-IDF: 7.92163
+Word:                      appear  TF:   1 IDF:   2 TF-IDF: 3.96081
+Word:                    approxim  TF:   1 IDF:  30 TF-IDF: 1.25276
+Word:                          ax  TF:   1 IDF:   2 TF-IDF: 3.96081
+Word:                boundary-lay  TF:   1 IDF:  26 TF-IDF: 1.39586
+Word:                      calcul  TF:   3 IDF:  19 TF-IDF: 5.12856
+Word:                         can  TF:   2 IDF:  24 TF-IDF: 2.95181
+Word:                        case  TF:   1 IDF:  32 TF-IDF: 1.18822
+Word:                        cent  TF:   2 IDF:   4 TF-IDF: 6.53533
+Word:                     chapman  TF:   1 IDF:   1 TF-IDF: 4.65396
+Word:                    coeffici  TF:   1 IDF:  21 TF-IDF: 1.60944
+Word:                      comput  TF:   5 IDF:  12 TF-IDF: 10.84527
+Word:                       cover  TF:   1 IDF:   4 TF-IDF: 3.26767
+Word:                          cx  TF:   1 IDF:   1 TF-IDF: 4.65396
+Word:                      detail  TF:   1 IDF:  10 TF-IDF: 2.35138
+Word:                    determin  TF:   1 IDF:  18 TF-IDF: 1.76359
+Word:                      differ  TF:   1 IDF:  16 TF-IDF: 1.88137
+Word:                     discrep  TF:   1 IDF:   1 TF-IDF: 4.65396
+Word:                      emploi  TF:   1 IDF:   9 TF-IDF: 2.45674
+Word:                      energi  TF:   1 IDF:   9 TF-IDF: 2.45674
+Word:                       equat  TF:   3 IDF:  43 TF-IDF: 2.67828
+Word:                       error  TF:   1 IDF:   2 TF-IDF: 3.96081
+Word:                       estim  TF:   1 IDF:   6 TF-IDF: 2.86220
+Word:                      examin  TF:   2 IDF:   6 TF-IDF: 5.72440
+Word:                      except  TF:   1 IDF:   3 TF-IDF: 3.55535
+Word:                       expon  TF:   2 IDF:   1 TF-IDF: 9.30792
+Word:                     express  TF:   1 IDF:   9 TF-IDF: 2.45674
+Word:                      extens  TF:   1 IDF:   8 TF-IDF: 2.57452
+Word:                      extent  TF:   1 IDF:   1 TF-IDF: 4.65396
+Word:                       finit  TF:   1 IDF:   4 TF-IDF: 3.26767
+Word:                        flat  TF:   1 IDF:  18 TF-IDF: 1.76359
+Word:                        flow  TF:   1 IDF:  62 TF-IDF: 0.52683
+Word:                        form  TF:   1 IDF:  11 TF-IDF: 2.25607
+Word:                       found  TF:   1 IDF:  19 TF-IDF: 1.70952
+Word:                 free-stream  TF:   1 IDF:  10 TF-IDF: 2.35138
+Word:                    function  TF:   3 IDF:  14 TF-IDF: 6.04471
+Word:                       given  TF:   2 IDF:  34 TF-IDF: 2.25520
+Word:                      hartre  TF:   1 IDF:   1 TF-IDF: 4.65396
+Word:                 heat-transf  TF:   2 IDF:   9 TF-IDF: 4.91347
+Word:                      herein  TF:   1 IDF:   3 TF-IDF: 3.55535
+Word:                         ibm  TF:   1 IDF:   2 TF-IDF: 3.96081
+Word:                  incompress  TF:   1 IDF:  11 TF-IDF: 2.25607
+Word:                        larg  TF:   1 IDF:  14 TF-IDF: 2.01490
+Word:                       local  TF:   1 IDF:   9 TF-IDF: 2.45674
+Word:                      machin  TF:   1 IDF:   1 TF-IDF: 4.65396
+Word:                    momentum  TF:   1 IDF:   9 TF-IDF: 2.45674
+Word:                         neg  TF:   1 IDF:   1 TF-IDF: 4.65396
+Word:                      number  TF:   1 IDF:  41 TF-IDF: 0.94039
+Word:                       numer  TF:   3 IDF:  21 TF-IDF: 4.82831
+Word:                      object  TF:   1 IDF:   3 TF-IDF: 3.55535
+Word:                         per  TF:   2 IDF:   8 TF-IDF: 5.14904
+Word:                     perform  TF:   1 IDF:   8 TF-IDF: 2.57452
+Word:                      pertin  TF:   1 IDF:   1 TF-IDF: 4.65396
+Word:                       plate  TF:   1 IDF:  23 TF-IDF: 1.51847
+Word:                 power-funct  TF:   1 IDF:   1 TF-IDF: 4.65396
+Word:                     prandtl  TF:   1 IDF:   8 TF-IDF: 2.57452
+Word:                     present  TF:   2 IDF:  24 TF-IDF: 2.95181
+Word:                     previou  TF:   1 IDF:   4 TF-IDF: 3.26767
+Word:                        rang  TF:   3 IDF:  15 TF-IDF: 5.83773
+Word:                        rate  TF:   1 IDF:  11 TF-IDF: 2.25607
+Word:                     repetit  TF:   1 IDF:   1 TF-IDF: 4.65396
+Word:                     resolut  TF:   1 IDF:   1 TF-IDF: 4.65396
+Word:                      result  TF:   3 IDF:  42 TF-IDF: 2.74887
+Word:                      reveal  TF:   1 IDF:   1 TF-IDF: 4.65396
+Word:                     rubesin  TF:   1 IDF:   2 TF-IDF: 3.96081
+Word:                       schuh  TF:   2 IDF:   1 TF-IDF: 9.30792
+Word:                    solution  TF:   2 IDF:  32 TF-IDF: 2.37645
+Word:                  temperatur  TF:   1 IDF:  23 TF-IDF: 1.51847
+Word:                     thereof  TF:   1 IDF:   1 TF-IDF: 4.65396
+Word:                        util  TF:   1 IDF:   3 TF-IDF: 3.55535
+Word:                        valu  TF:   2 IDF:  20 TF-IDF: 3.31646
+Word:                        vari  TF:   1 IDF:   5 TF-IDF: 3.04452
+Word:                      variat  TF:   1 IDF:  11 TF-IDF: 2.25607
+Word:                       veloc  TF:   1 IDF:  22 TF-IDF: 1.56292
+Word:                        wall  TF:   2 IDF:  19 TF-IDF: 3.41904
+Word:             wall-temperatur  TF:   1 IDF:   1 TF-IDF: 4.65396
+Word:                      within  TF:   2 IDF:  12 TF-IDF: 4.33811
+
+Please enter a query to find related documents:shell thickness reflected characteristic cone
+
+The top most similar documents are:
+   428 0.22654
+   382 0.14999
+   423 0.11761
+   357 0.11187
+   371 0.10456
+
+Complete!

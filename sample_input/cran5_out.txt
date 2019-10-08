@@ -1,0 +1,77 @@
+Please enter the name of the collection file:cran5.txt
+Please enter the name of the stopwords file:stopwords.txt
+ID: 1 Title: experimental investigation of the aerodynamics of a wing in a slipstream .
+  an experimental study of a wing in a propeller slipstream was made in order to determine the spanwise distribution of the lift increase due to slipstream at different angles of attack of the wing and at different free stream to slipstream velocity ratios .  the results were intended in part as an evaluation basis for different theoretical treatments of this problem .   the comparative span loading curves, together with supporting evidence, showed that a substantial part of the lift increment produced by the slipstream was due to a /destalling/ or boundary-layer-control effect .  the integrated remaining lift increment, after subtracting this destalling lift, was found to agree well with a potential flow theory .   an empirical evaluation of the destalling effects was made for the specific configuration of the experiment .
+
+There are currently 198 known stopwords.
+
+experimental study wing propeller slipstream made order determine spanwise distribution lift increase due slipstream different angles attack wing different free stream slipstream velocity ratios results intended part evaluation basis different theoretical treatments problem comparative span loading curves together supporting evidence showed substantial part lift increment produced slipstream due destalling boundary-layer-control effect integrated remaining lift increment subtracting destalling lift found agree well potential flow theory empirical evaluation destalling effects made specific configuration experiment
+Number of unique unstemmed words:56
+
+experiment studi wing propel slipstream made order determin spanwis distribut lift increas due slipstream differ angl attack wing differ free stream slipstream veloc ratio result intend part evalu basi differ theoret treatment problem compar span load curv togeth support evid show substanti part lift increm produc slipstream due destal boundary-layer-control effect integr remain lift increm subtract destal lift found agre well potenti flow theori empir evalu destal effect made specif configur experi
+Number of unique stemmed words:55
+
+Word:                   agre  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                   angl  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                 attack  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                   basi  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word: boundary-layer-control  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                 compar  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:               configur  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                   curv  TF:   1 IDF:   2 TF-IDF: 0.91629
+Word:                 destal  TF:   3 IDF:   1 TF-IDF: 4.82831
+Word:               determin  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                 differ  TF:   3 IDF:   2 TF-IDF: 2.74887
+Word:              distribut  TF:   1 IDF:   2 TF-IDF: 0.91629
+Word:                    due  TF:   2 IDF:   1 TF-IDF: 3.21888
+Word:                 effect  TF:   2 IDF:   3 TF-IDF: 1.02165
+Word:                  empir  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                  evalu  TF:   2 IDF:   1 TF-IDF: 3.21888
+Word:                   evid  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                 experi  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:             experiment  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                   flow  TF:   1 IDF:   4 TF-IDF: 0.22314
+Word:                  found  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                   free  TF:   1 IDF:   2 TF-IDF: 0.91629
+Word:                increas  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                 increm  TF:   2 IDF:   1 TF-IDF: 3.21888
+Word:                 integr  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                 intend  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                   lift  TF:   4 IDF:   1 TF-IDF: 6.43775
+Word:                   load  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                   made  TF:   2 IDF:   2 TF-IDF: 1.83258
+Word:                  order  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                   part  TF:   2 IDF:   1 TF-IDF: 3.21888
+Word:                potenti  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                problem  TF:   1 IDF:   3 TF-IDF: 0.51083
+Word:                 produc  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                 propel  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                  ratio  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                 remain  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                 result  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                   show  TF:   1 IDF:   2 TF-IDF: 0.91629
+Word:             slipstream  TF:   4 IDF:   1 TF-IDF: 6.43775
+Word:                   span  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                spanwis  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                 specif  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                 stream  TF:   1 IDF:   2 TF-IDF: 0.91629
+Word:                  studi  TF:   1 IDF:   2 TF-IDF: 0.91629
+Word:              substanti  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:               subtract  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                support  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                theoret  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                 theori  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                 togeth  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:              treatment  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                  veloc  TF:   1 IDF:   2 TF-IDF: 0.91629
+Word:                   well  TF:   1 IDF:   1 TF-IDF: 1.60944
+Word:                   wing  TF:   2 IDF:   1 TF-IDF: 3.21888
+
+Please enter a query to find related documents:study wing testing
+test is not in any of the documents.
+
+The top most similar documents are:
+     1 0.19901
+     2 0.05302
+
+Complete!

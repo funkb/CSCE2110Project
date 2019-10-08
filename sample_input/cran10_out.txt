@@ -1,0 +1,105 @@
+Please enter the name of the collection file:cran10.txt
+Please enter the name of the stopwords file:stopwords.txt
+ID: 206 Title: the applications of the polygon method to the calculation of the compressible subsonic flow round two-dimensional profiles .
+  this paper sets out the method now used by the author of applying the polygon method to the calculation of the compressible subsonic flow round two-dimensional aerofoils .  tables have been constructed which can be used for all aerofoil shapes, putting the polygon method on the same footing numerically as goldstein's method has the advantage over approximation 3 that it can be applied in the following cases which are beyond the scope of goldstein's method .. conventional aerofoils, (b) the low-speed flow about very thick aerofoils, e.g., in reference 3 it is applied to circular cylinders, (c) the flow about symmetric aerofoils between either straight or constant pressure walls, (d) flow in asymmetric channels, and (e) more difficult problems of the flow about aerofoils in the presence of one or two constraining walls (to be published) .  a method of calculating lift and moment coefficients, and their rates of change with incidence (a) is also given in the paper .   as an example the velocity distribution and the rates of change of the lift and moment coefficients with a are calculated for the aerofoil r.a.e.104 at values of m (mach number at infinity) of 0, and 0.7, for various values of the incidence, a .  the velocity distributions for zero incidence are found to be in fair agreement with the corresponding experimental results .  the results at incidence are in satisfactory agreement with the experimental results, not for the same incidence, but for the same lift coefficient .  it is found, for example, that at m = 0.7 the theory for a = 0.8 agrees best with experiment for a = 1.0, when the lift coefficients are approximately the same .
+
+There are currently 198 known stopwords.
+
+paper sets method now used author applying polygon method calculation compressible subsonic flow round two-dimensional aerofoils tables constructed can used aerofoil shapes putting polygon method footing numerically goldsteins method advantage approximation can applied following cases beyond scope goldsteins method conventional aerofoils low-speed flow thick aerofoils eg reference applied circular cylinders flow symmetric aerofoils either straight constant pressure walls flow asymmetric channels difficult problems flow aerofoils presence one two constraining walls published method calculating lift moment coefficients rates change incidence also given paper example velocity distribution rates change lift moment coefficients calculated aerofoil rae values mach number infinity various values incidence velocity distributions zero incidence found fair agreement corresponding experimental results results incidence satisfactory agreement experimental results incidence lift coefficient found example theory agrees best experiment lift coefficients approximately
+Number of unique unstemmed words:87
+
+paper set method now us author appli polygon method calcul compress subson flow round two-dimension aerofoil tabl construct can us aerofoil shape put polygon method foot numer goldstein method advantag approxim can appli follow case beyond scope goldstein method convent aerofoil low-spe flow thick aerofoil eg refer appli circular cylind flow symmetr aerofoil either straight constant pressur wall flow asymmetr channel difficult problem flow aerofoil presenc on two constrain wall publish method calcul lift moment coeffici rate chang incid also given paper exampl veloc distribut rate chang lift moment coeffici calcul aerofoil rae valu mach number infin variou valu incid veloc distribut zero incid found fair agreem correspond experiment result result incid satisfactori agreem experiment result incid lift coeffici found exampl theori agre best experi lift coeffici approxim
+Number of unique stemmed words:80
+
+Word:          advantag  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:          aerofoil  TF:   7 IDF:   1 TF-IDF: 16.11810
+Word:              agre  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:            agreem  TF:   2 IDF:   2 TF-IDF: 3.21888
+Word:              also  TF:   1 IDF:   3 TF-IDF: 1.20397
+Word:             appli  TF:   3 IDF:   2 TF-IDF: 4.82831
+Word:          approxim  TF:   2 IDF:   2 TF-IDF: 3.21888
+Word:          asymmetr  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:            author  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:              best  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:            beyond  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:            calcul  TF:   3 IDF:   5 TF-IDF: 2.07944
+Word:               can  TF:   2 IDF:   3 TF-IDF: 2.40795
+Word:              case  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:             chang  TF:   2 IDF:   2 TF-IDF: 3.21888
+Word:           channel  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:          circular  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:          coeffici  TF:   4 IDF:   4 TF-IDF: 3.66516
+Word:          compress  TF:   1 IDF:   3 TF-IDF: 1.20397
+Word:          constant  TF:   1 IDF:   2 TF-IDF: 1.60944
+Word:         constrain  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:         construct  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:           convent  TF:   1 IDF:   3 TF-IDF: 1.20397
+Word:        correspond  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:            cylind  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:         difficult  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:         distribut  TF:   2 IDF:   3 TF-IDF: 2.40795
+Word:                eg  TF:   1 IDF:   2 TF-IDF: 1.60944
+Word:            either  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:            exampl  TF:   2 IDF:   2 TF-IDF: 3.21888
+Word:            experi  TF:   1 IDF:   5 TF-IDF: 0.69315
+Word:        experiment  TF:   2 IDF:   3 TF-IDF: 2.40795
+Word:              fair  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:              flow  TF:   5 IDF:   6 TF-IDF: 2.55413
+Word:            follow  TF:   1 IDF:   3 TF-IDF: 1.20397
+Word:              foot  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:             found  TF:   2 IDF:   4 TF-IDF: 1.83258
+Word:             given  TF:   1 IDF:   2 TF-IDF: 1.60944
+Word:         goldstein  TF:   2 IDF:   1 TF-IDF: 4.60517
+Word:             incid  TF:   5 IDF:   2 TF-IDF: 8.04719
+Word:             infin  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:              lift  TF:   4 IDF:   1 TF-IDF: 9.21034
+Word:           low-spe  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:              mach  TF:   1 IDF:   5 TF-IDF: 0.69315
+Word:            method  TF:   6 IDF:   3 TF-IDF: 7.22384
+Word:            moment  TF:   2 IDF:   2 TF-IDF: 3.21888
+Word:               now  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:            number  TF:   1 IDF:   5 TF-IDF: 0.69315
+Word:             numer  TF:   1 IDF:   2 TF-IDF: 1.60944
+Word:                on  TF:   1 IDF:   3 TF-IDF: 1.20397
+Word:             paper  TF:   2 IDF:   3 TF-IDF: 2.40795
+Word:           polygon  TF:   2 IDF:   1 TF-IDF: 4.60517
+Word:           presenc  TF:   1 IDF:   2 TF-IDF: 1.60944
+Word:           pressur  TF:   1 IDF:   6 TF-IDF: 0.51083
+Word:           problem  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:           publish  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:               put  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:               rae  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:              rate  TF:   2 IDF:   1 TF-IDF: 4.60517
+Word:             refer  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:            result  TF:   3 IDF:   5 TF-IDF: 2.07944
+Word:             round  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:      satisfactori  TF:   1 IDF:   2 TF-IDF: 1.60944
+Word:             scope  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:               set  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:             shape  TF:   1 IDF:   4 TF-IDF: 0.91629
+Word:          straight  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:            subson  TF:   1 IDF:   4 TF-IDF: 0.91629
+Word:           symmetr  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:              tabl  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:            theori  TF:   1 IDF:   5 TF-IDF: 0.69315
+Word:             thick  TF:   1 IDF:   2 TF-IDF: 1.60944
+Word:               two  TF:   1 IDF:   2 TF-IDF: 1.60944
+Word:     two-dimension  TF:   1 IDF:   2 TF-IDF: 1.60944
+Word:                us  TF:   2 IDF:   7 TF-IDF: 0.71335
+Word:              valu  TF:   2 IDF:   3 TF-IDF: 2.40795
+Word:            variou  TF:   1 IDF:   1 TF-IDF: 2.30259
+Word:             veloc  TF:   2 IDF:   6 TF-IDF: 1.02165
+Word:              wall  TF:   2 IDF:   1 TF-IDF: 4.60517
+Word:              zero  TF:   1 IDF:   2 TF-IDF: 1.60944
+
+Please enter a query to find related documents:transition convex turbine producing
+
+The top most similar documents are:
+   212 0.21109
+   215 0.17509
+   207 0.11892
+   213 0.07200
+   210 0.00975
+
+Complete!
+

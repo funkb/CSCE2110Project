@@ -1,0 +1,12 @@
+Please enter the name of the collection file:cran1.txt
+Please enter the name of the stopwords file:stopwords.txt
+ID: 1 Title: experimental investigation of the aerodynamics of a wing in a slipstream .
+  an experimental study of a wing in a propeller slipstream was made in order to determine the spanwise distribution of the lift increase due to slipstream at different angles of attack of the wing and at different free stream to slipstream velocity ratios .  the results were intended in part as an evaluation basis for different theoretical treatments of this problem .   the comparative span loading curves, together with supporting evidence, showed that a substantial part of the lift increment produced by the slipstream was due to a /destalling/ or boundary-layer-control effect .  the integrated remaining lift increment, after subtracting this destalling lift, was found to agree well with a potential flow theory .   an empirical evaluation of the destalling effects was made for the specific configuration of the experiment .
+
+There are currently 198 known stopwords.
+
+experimental study wing propeller slipstream made order determine spanwise distribution lift increase due slipstream different angles attack wing different free stream slipstream velocity ratios results intended part evaluation basis different theoretical treatments problem comparative span loading curves together supporting evidence showed substantial part lift increment produced slipstream due destalling boundary-layer-control effect integrated remaining lift increment subtracting destalling lift found agree well potential flow theory empirical evaluation destalling effects made specific configuration experiment
+Number of unique unstemmed words:56
+
+experiment studi wing propel slipstream made order determin spanwis distribut lift increas due slipstream differ angl attack wing differ free stream slipstream veloc ratio result intend part evalu basi differ theoret treatment problem compar span load curv togeth support evid show substanti part lift increm produc slipstream due destal boundary-layer-control effect integr remain lift increm subtract destal lift found agre well potenti flow theori empir evalu destal effect made specif configur experi
+Number of unique stemmed words:55

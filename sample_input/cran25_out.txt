@@ -1,0 +1,85 @@
+Please enter the name of the collection file:cran25.txt
+Please enter the name of the stopwords file:stopwords.txt
+ID: 50 Title: investigation of laminar boundary layer in compressible fluids using the crocco method .
+  in the present investigation of the flow of air in a thin laminar boundary layer on a flat plate, the crocco method has been used to solve the simultaneous differential equations of momentum and energy involved in such flow .  the crocco method was used because it gave accurate results for arbitrary prandtl number near unity .  the prandtl number was taken at 0.75, the specific heat was held constant, and the sutherland law of viscosity-temperature variation was assumed to represent the viscosity data starting with an initial ambient temperature of -67.6 f .  the main results presented here are the skin-friction and heat-transfer coefficients as functions of reynolds number, mach number, and wall-to-free-stream temperature ratio .  variations of shear, velocity, temperature, and mach number across the boundary layer are included .  the crocco method is discussed in detail .
+
+There are currently 198 known stopwords.
+
+present investigation flow air thin laminar boundary layer flat plate crocco method used solve simultaneous differential equations momentum energy involved flow crocco method used gave accurate results arbitrary prandtl number near unity prandtl number taken specific heat held constant sutherland law viscosity-temperature variation assumed represent viscosity data starting initial ambient temperature main results presented skin-friction heat-transfer coefficients functions reynolds number mach number wall-to-free-stream temperature ratio variations shear velocity temperature mach number across boundary layer included crocco method discussed detail
+Number of unique unstemmed words:62
+
+present investig flow air thin laminar boundari layer flat plate crocco method us solv simultan differenti equat momentum energi involv flow crocco method us gave accur result arbitrari prandtl number near uniti prandtl number taken specif heat held constant sutherland law viscosity-temperatur variat assum repres viscos data start initi ambient temperatur main result present skin-frict heat-transf coeffici function reynold number mach number wall-to-free-stream temperatur ratio variat shear veloc temperatur mach number across boundari layer includ crocco method discuss detail
+Number of unique stemmed words:60
+
+Word:                  accur  TF:   1 IDF:   4 TF-IDF: 1.87180
+Word:                 across  TF:   1 IDF:   2 TF-IDF: 2.56495
+Word:                    air  TF:   1 IDF:   2 TF-IDF: 2.56495
+Word:                ambient  TF:   1 IDF:   1 TF-IDF: 3.25810
+Word:              arbitrari  TF:   1 IDF:   4 TF-IDF: 1.87180
+Word:                  assum  TF:   1 IDF:   5 TF-IDF: 1.64866
+Word:               boundari  TF:   2 IDF:  11 TF-IDF: 1.72040
+Word:               coeffici  TF:   1 IDF:   7 TF-IDF: 1.31219
+Word:               constant  TF:   1 IDF:   3 TF-IDF: 2.15948
+Word:                 crocco  TF:   3 IDF:   1 TF-IDF: 9.77429
+Word:                   data  TF:   1 IDF:   6 TF-IDF: 1.46634
+Word:                 detail  TF:   1 IDF:   4 TF-IDF: 1.87180
+Word:             differenti  TF:   1 IDF:   5 TF-IDF: 1.64866
+Word:                discuss  TF:   1 IDF:   3 TF-IDF: 2.15948
+Word:                 energi  TF:   1 IDF:   2 TF-IDF: 2.56495
+Word:                  equat  TF:   1 IDF:   8 TF-IDF: 1.17865
+Word:                   flat  TF:   1 IDF:   6 TF-IDF: 1.46634
+Word:                   flow  TF:   2 IDF:  19 TF-IDF: 0.62732
+Word:               function  TF:   1 IDF:   5 TF-IDF: 1.64866
+Word:                   gave  TF:   1 IDF:   1 TF-IDF: 3.25810
+Word:                   heat  TF:   1 IDF:  10 TF-IDF: 0.95551
+Word:            heat-transf  TF:   1 IDF:   5 TF-IDF: 1.64866
+Word:                   held  TF:   1 IDF:   2 TF-IDF: 2.56495
+Word:                 includ  TF:   1 IDF:   5 TF-IDF: 1.64866
+Word:                  initi  TF:   1 IDF:   1 TF-IDF: 3.25810
+Word:               investig  TF:   1 IDF:   7 TF-IDF: 1.31219
+Word:                 involv  TF:   1 IDF:   2 TF-IDF: 2.56495
+Word:                laminar  TF:   1 IDF:   8 TF-IDF: 1.17865
+Word:                    law  TF:   1 IDF:   2 TF-IDF: 2.56495
+Word:                  layer  TF:   2 IDF:  11 TF-IDF: 1.72040
+Word:                   mach  TF:   2 IDF:  14 TF-IDF: 1.23808
+Word:                   main  TF:   1 IDF:   2 TF-IDF: 2.56495
+Word:                 method  TF:   3 IDF:  14 TF-IDF: 1.85712
+Word:               momentum  TF:   1 IDF:   2 TF-IDF: 2.56495
+Word:                   near  TF:   1 IDF:   4 TF-IDF: 1.87180
+Word:                 number  TF:   5 IDF:  16 TF-IDF: 2.42754
+Word:                  plate  TF:   1 IDF:   4 TF-IDF: 1.87180
+Word:                prandtl  TF:   2 IDF:   4 TF-IDF: 3.74360
+Word:                present  TF:   2 IDF:  13 TF-IDF: 1.38629
+Word:                  ratio  TF:   1 IDF:  10 TF-IDF: 0.95551
+Word:                 repres  TF:   1 IDF:   3 TF-IDF: 2.15948
+Word:                 result  TF:   2 IDF:  10 TF-IDF: 1.91102
+Word:                reynold  TF:   1 IDF:   7 TF-IDF: 1.31219
+Word:                  shear  TF:   1 IDF:   2 TF-IDF: 2.56495
+Word:               simultan  TF:   1 IDF:   4 TF-IDF: 1.87180
+Word:             skin-frict  TF:   1 IDF:   4 TF-IDF: 1.87180
+Word:                   solv  TF:   1 IDF:   3 TF-IDF: 2.15948
+Word:                 specif  TF:   1 IDF:   3 TF-IDF: 2.15948
+Word:                  start  TF:   1 IDF:   1 TF-IDF: 3.25810
+Word:             sutherland  TF:   1 IDF:   2 TF-IDF: 2.56495
+Word:                  taken  TF:   1 IDF:   2 TF-IDF: 2.56495
+Word:             temperatur  TF:   3 IDF:  13 TF-IDF: 2.07944
+Word:                   thin  TF:   1 IDF:   2 TF-IDF: 2.56495
+Word:                  uniti  TF:   1 IDF:   3 TF-IDF: 2.15948
+Word:                     us  TF:   2 IDF:   8 TF-IDF: 2.35731
+Word:                 variat  TF:   2 IDF:   4 TF-IDF: 3.74360
+Word:                  veloc  TF:   1 IDF:  12 TF-IDF: 0.77319
+Word:                 viscos  TF:   1 IDF:   4 TF-IDF: 1.87180
+Word:   viscosity-temperatur  TF:   1 IDF:   2 TF-IDF: 2.56495
+Word:    wall-to-free-stream  TF:   1 IDF:   1 TF-IDF: 3.25810
+
+Please enter a query to find related documents:density supersonic flow velocity surface
+
+The top most similar documents are:
+    74 0.29610
+    73 0.14501
+    62 0.07236
+    52 0.04623
+    51 0.04245
+
+Complete!
+

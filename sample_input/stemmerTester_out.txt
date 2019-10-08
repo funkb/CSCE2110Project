@@ -1,0 +1,11 @@
+ID: 0 Title: this file is testing the porter-stemmer .
+caresses ponies ties caress cats  feed agreed plastered bled motoring sing conflated troubled sized hopping tanned falling hissing fizzed failing filing happy sky relational conditional rational valency hesitancy digitizer conformably radically differently vilely analogously vietnamization predication operator feudalism decisiveness hopefulness callousness formality sensitivity sensibility triplicate formative formalize electricity electrical hopeful goodness revival allowance inference airliner gyroscopic adjustable defensible irritant replacement adjustment dependent adoption homologou communism activate angularity homologous effective bowdlerize probate rate cease controlling rolling .
+
+There are currently 198 known stopwords.
+
+caresses ponies ties caress cats feed agreed plastered bled motoring sing conflated troubled sized hopping tanned falling hissing fizzed failing filing happy sky relational conditional rational valency hesitancy digitizer conformably radically differently vilely analogously vietnamization predication operator feudalism decisiveness hopefulness callousness formality sensitivity sensibility triplicate formative formalize electricity electrical hopeful goodness revival allowance inference airliner gyroscopic adjustable defensible irritant replacement adjustment dependent adoption homologou communism activate angularity homologous effective bowdlerize probate rate cease controlling rolling
+Number of unique unstemmed words:75
+
+caress poni ti caress cat feed agre plaster bled motor sing conflat troubl size hop tan fall hiss fizz fail file happi sky relat condition ration valenc hesit digitiz conform radic differ vile analog vietnam predic oper feudal decis hope callous formal sensit sensibl triplic form formal electr electr hope good reviv allow infer airlin gyroscop adjust defens irrit replac adjust depend adopt homolog commun activ angular homolog effect bowdler probat rate ceas control roll
+Number of unique stemmed words:69
+
