@@ -5,6 +5,6 @@ A system built in C++ that will read in a collection of documents, store and pro
 # Contributers
 
 * Brandon Funk
-* Oliver Velez
-* Darrin Pennington
-* Avery Berg
+* [redacted]
+* [redacted]
+* [redacted]
